@@ -1,1 +1,2 @@
+trojan://3723507166611775488@80.240.112.32:443?security=tls&headerType=&type=tcp&sni=oriented-terrier.boa152.lol#%F0%9F%94%92+TR-TCP-TLS+%F0%9F%87%A9%F0%9F%87%AA+DE-80.240.112.32%3A443
 
